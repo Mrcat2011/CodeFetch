@@ -22,6 +22,16 @@ make
 Example
 ./profile codeforces programmercat
 
+ ┌──────────────────────────────────────────────────────────┐
+  👤 specialist programmercat
+ ├──────────────────────────────────────────────────────────┤
+  📇 Full name:    Mrcat Mcrat
+  🚩 From:         Azerbaijan
+  📈 Rating:       1587 (max. 1606, specialist)
+  🌟 Contribution: +15
+ └──────────────────────────────────────────────────────────┘
+
+
 Platform,Status
 Codeforces,✅ Supported
 Others,🚧 Coming Soon
